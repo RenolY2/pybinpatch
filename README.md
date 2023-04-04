@@ -9,4 +9,4 @@ Applying patches:
 ``python pybinpatch.py patch <original dol> <patch> [output]``
         
 Creating patches:
-''python pybinpatch.py create <original dol> <patched dol> [output]``
+``python pybinpatch.py create <original dol> <patched dol> [output]``
